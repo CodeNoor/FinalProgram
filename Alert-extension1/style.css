@@ -1,0 +1,12 @@
+.container {
+  border: black solid 4px;
+  width: 150px;
+  height: 150px;
+  /* align-items: center; */
+  /* justify-content: center; */
+
+}
+#p1{
+  margin-top: 0;
+  margin-left: 5px;
+}
